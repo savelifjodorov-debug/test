@@ -474,4 +474,4 @@ Funktsiooni `expect()` kasutatakse tegeliku tulemuse võrdlemiseks oodatud tulem
 * `failed` tähendab, et test ebaõnnestus – rakenduse käitumine ei vastanud oodatud tulemusele või tekkis testi täitmisel viga (nt elementi ei leitud).
 
 **5. Kas ebaõnnestunud test tähendab alati, et veebirakenduses on viga? Selgita.**
-Ei tähenda alati. Viga võib olla ka testikoodis endas – näiteks on kasutatud valet lokaatorit, element pole jõudnud veel ära laadida, tekstis on kirjaviga või on valesti määratud oodatav tulemus.
+Ei tähenda alati. Viga võib olla ka testikoodis endas – näiteks on kasutatud valet lokaatorit, element pole jõudnud veel ära laadida, tekstis on kirjaviga või on valesti määratud oodatav tulemus. 
